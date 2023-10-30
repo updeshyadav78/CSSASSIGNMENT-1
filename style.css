@@ -1,0 +1,37 @@
+h1{
+    color: #cd0d0d;
+    text-align: center;
+}
+h2{
+    color: #de5a2a;
+    font-style: italic;
+}
+ol{
+    color: #a52a2a;
+}
+ul{
+    color: #a52a2a;
+}
+p{
+    color: #a52a2a;
+}
+a{
+    color: #a52a2a;
+    background-color: yellow;
+    font-weight: bold;
+}
+#box1{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+#box2{
+    background-color: yellow;
+    font-weight: bold;
+}
+#box3{
+    text-decoration: underline;
+    font-style: italic;
+}
+#box4{
+    background-color: yellow;
+}
